@@ -6,6 +6,7 @@
 -M.Ed, Bank Street College of Education (2022)
 
 -I have spent the past 7 years as a middle school STEM and Robotics Teacher in the Bronx, New York, working with underserved populations. 
+
 -I am passionate about using machine learning models to solve big problems, particularly in the education space.
 
 
