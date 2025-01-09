@@ -2,7 +2,9 @@
 
 # Bio
 -Current Master's Degree Candidate in Data Science at Pace University, with an expected graduation date of May 2026. 
+
 -B.A., University of Michigan; History, Creative Writing and Literature (2017)
+
 -M.Ed, Bank Street College of Education (2022)
 
 -I have spent the past 7 years as a middle school STEM and Robotics Teacher in the Bronx, New York, working with underserved populations. 
