@@ -21,8 +21,8 @@
 5. WatsonWBlair/cs660
 
 -For projects that I have undertaken while expanding my skillset, please visit:
--maddog19527/FirstLLM
--maddog19527/TensorFlow-First-Project
+1. maddog19527/FirstLLM
+2. maddog19527/TensorFlow-First-Project
 
 <!---
 maddog19527/maddog19527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
