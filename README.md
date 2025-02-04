@@ -21,7 +21,7 @@ For assignments and projects that I have completed as part of my coursework, ple
 5. WatsonWBlair/cs660
 
 For projects that I have undertaken while expanding my skillset, please visit:
-1. maddog19527/FirstLLM
+1. maddog19527/FirstNLP
 2. maddog19527/TensorFlow-First-Project
 
 <!---
