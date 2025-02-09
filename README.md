@@ -19,6 +19,7 @@ For assignments and projects that I have completed as part of my coursework, ple
 3. WatsonWBlair/DBMS_Lions
 4. torrwill/cs_660_ev_eda
 5. WatsonWBlair/cs660
+6. WatsonWBlair/DBMS_Lions
 
 For projects that I have undertaken while expanding my skillset, please visit:
 1. maddog19527/FirstNLP
