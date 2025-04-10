@@ -11,6 +11,9 @@
 
 -I am passionate about using machine learning models and data analysis to drive actionable solutions to big problems, particularly in the education space.
 
+# Relevent Skills
+![](https://img.shields.io/badge/Python-blue) 
+
 # Projects and Repos
 
 For assignments and projects that I have completed as part of my coursework, please visit the following repos:
