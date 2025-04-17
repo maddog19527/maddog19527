@@ -1,6 +1,6 @@
-## Michael Griffin
+# Michael Griffin
 
-# Bio
+## Bio
 -Current Master's Degree Candidate in Data Science at Pace University, with an expected graduation date of May 2026. 
 
 -B.A., University of Michigan; History, Creative Writing and Literature (2017)
@@ -11,10 +11,10 @@
 
 -I am passionate about using machine learning models and data analysis to drive actionable solutions to big problems, particularly in the education space.
 
-# Relevent Skills
+## Relevent Skills
 ![](https://img.shields.io/badge/Python-blue) 
 
-# Projects and Repos
+## Projects and Repos
 
 For assignments and projects that I have completed as part of my coursework, please visit the following repos:
 1. maddog19527/CS660_Project_3: Regression and Classification hypertuning
