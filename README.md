@@ -1,6 +1,8 @@
 # Michael Griffin
 
 ## Bio
+-Marketing Mix Modeler, specializing in usage of OLS and Bayesian Regression techniques to measure marketing effectiveness.
+
 -Current Master's Degree Candidate in Data Science at Pace University, with an expected graduation date of May 2026. 
 
 -B.A., University of Michigan; History, Creative Writing and Literature (2017)
@@ -26,12 +28,14 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+[![dplyr](https://img.shields.io/badge/dplyr-276DC3?logo=R&logoColor=fff)](#)
 
 ### Database and Cloud Systems
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=fff)](#)
 
 ## Projects and Repos
 
